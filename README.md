@@ -4,7 +4,7 @@
 
 **팀원 소개**
 
-| 권도원 ([@dowonk120](https://github.com/dowonk120)) | 권주연 ([@juyeonkwon](https://github.com/yeoniii02)) | 이소정 ([@leesojunghub](https://github.com/leesojunghub)) | 이준원 ([@none-jun](https://github.com/none-jun)) | 조솔찬 ([@solchna](https://github.com/solchna)) |
+| 권도원 ([@dowonk120](https://github.com/dowonk120)) | 권주연 ([@juyeonkwon](https://github.com/juyeonkwon)) | 이소정 ([@leesojunghub](https://github.com/leesojunghub)) | 이준원 ([@none-jun](https://github.com/none-jun)) | 조솔찬 ([@solchna](https://github.com/solchna)) |
 |----------------------|------------------------|----------------------------|--------|--------------------------|
 
 ---
